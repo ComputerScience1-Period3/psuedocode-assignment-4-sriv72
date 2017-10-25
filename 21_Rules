@@ -6,8 +6,8 @@ The dealer gives one card face up to each player in rotation clockwise.
 Another round of cards is then dealt face up to each player.
 
 NATURAL/BLACKJACK
-If a player's first two cards are an ace and a "ten-card" (a picture card or 10),
-giving him a count of 21 in two cards, this is a natural or "blackjack."
+If a player gets dealt a hand of 21:
+  the player gets double their bet.
 
 THE PLAY
 The player to the left goes first and must decide whether to "stand" (not ask for another card) or "hit" 
